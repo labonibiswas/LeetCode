@@ -13,7 +13,7 @@ class Solution {
                 int l = n-1;
                 
                 while(k<l){
-                    int sum = nums[i] + nums[j] + nums[k] + nums[l];
+                    long sum = (long)nums[i] + nums[j] + nums[k] + nums[l];
                     if(sum == target){
                         set.add(Arrays.asList(nums[i],nums[j], nums[k], nums[l]));
                         k++;
