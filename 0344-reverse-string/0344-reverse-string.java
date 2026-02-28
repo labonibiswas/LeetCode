@@ -1,17 +1,13 @@
 class Solution {
     public void reverseString(char[] s) {
-        int st = 0;
-        int end = s.length-1;
-        while(end > st){
-            char temp = s[st];
-            s[st] = s[end];
-            s[end] = temp;
-            st++;
-            end--;
-        }
-
-        for(int i=0; i<end; i++){
-            System.out.print(s[i] + ", ");
+        int n = s.length;
+        int l=0;
+        int r = n-1;
+        while(l<=r){
+            char temp = s[l];
+            s[l] = s[r];
+            s[r] = temp;
+            l++;r--;
         }
     }
 }
