@@ -4,11 +4,13 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/labonibiswas/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/labonibiswas/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Enumeration
@@ -19,4 +21,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
