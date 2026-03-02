@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/labonibiswas/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/labonibiswas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
