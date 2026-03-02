@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/labonibiswas/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/labonibiswas/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -27,4 +28,8 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/labonibiswas/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/labonibiswas/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
