@@ -13,6 +13,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/labonibiswas/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/labonibiswas/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
