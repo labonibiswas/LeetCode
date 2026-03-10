@@ -17,6 +17,7 @@
 | [0009-palindrome-number](https://github.com/labonibiswas/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/labonibiswas/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/labonibiswas/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/labonibiswas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/labonibiswas/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/labonibiswas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
