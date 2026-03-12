@@ -10,7 +10,6 @@ class Solution {
             if(flowerbed[i] == 0){
                 if(isLeftEmplty && isRightEmpty){
                     count++;
-                    flowerbed[i] = 1;
                 }
             }
         }
