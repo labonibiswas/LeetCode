@@ -1,14 +1,18 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        int count=0;
-        for(int i : nums){
-            int complement = k-i;
-            if(map.getOrDefault(complement,0) > 0){
+        int l=0, r=nums.length-1;
+        Arrays.sort(nums);
+        int count = 0;
+        while(l<r){
+            int sum = nums[l] + nums[r];
+            if(sum == k){
+                l++;
+                r--;
                 count++;
-                map.put(complement, map.getOrDefault(complement,0)-1);
+            }else if(sum > k){
+                r--;
             }else{
-                map.put(i, map.getOrDefault(i, 0)+1);
+                l++;
             }
         }
 
