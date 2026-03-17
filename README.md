@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/labonibiswas/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/labonibiswas/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/labonibiswas/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -42,11 +43,13 @@
 | [0283-move-zeroes](https://github.com/labonibiswas/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/labonibiswas/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/labonibiswas/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/labonibiswas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/labonibiswas/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
