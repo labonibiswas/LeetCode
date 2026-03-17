@@ -13,6 +13,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/labonibiswas/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/labonibiswas/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/labonibiswas/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/labonibiswas/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/labonibiswas/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -75,6 +76,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/labonibiswas/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
