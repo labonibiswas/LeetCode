@@ -16,6 +16,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/labonibiswas/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/labonibiswas/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/labonibiswas/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/labonibiswas/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Math
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/labonibiswas/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/labonibiswas/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
