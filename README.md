@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/labonibiswas/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0242-valid-anagram](https://github.com/labonibiswas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/labonibiswas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/labonibiswas/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/labonibiswas/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/labonibiswas/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/labonibiswas/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/labonibiswas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -89,6 +91,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/labonibiswas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
@@ -101,4 +104,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/labonibiswas/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
