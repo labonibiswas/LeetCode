@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/labonibiswas/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/labonibiswas/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/labonibiswas/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -83,6 +84,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
