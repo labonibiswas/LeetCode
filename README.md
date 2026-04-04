@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/labonibiswas/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/labonibiswas/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/labonibiswas/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -108,6 +109,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/labonibiswas/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
