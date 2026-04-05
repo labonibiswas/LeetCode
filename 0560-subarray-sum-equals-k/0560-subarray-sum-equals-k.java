@@ -6,9 +6,9 @@ class Solution {
         map.put(0, 1);
         for(int n :nums){
             prefixSum += n;
-            if(map.containsKey(prefixSum -k)) result += map.get(prefixSum-k);
+            if(map.containsKey(prefixSum -k)) result += map.get(prefixSum-k); //if prefixsum exists add it in the result
 
-            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
+            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1); //if not then update the sum in the map
         }
 
         return result;
