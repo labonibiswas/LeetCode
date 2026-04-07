@@ -1,32 +1,37 @@
 class Solution {
-    public int lowerBound(int[] arr,int n, int x){
+    public int first(int[] arr,int n, int x){
         int l = 0; int r = n-1;
-        int ans = n;
+        int first = -1;
         while(l<=r){
             int mid = l + (r - l) / 2;
-            if(arr[mid] >= x){
-                ans = mid;
+            if(arr[mid] == x){
+                first = mid;
                 r = mid-1;
-            }else l = mid + 1;
+            }
+            else if(arr[mid] < x ) l = mid + 1;
+            else r = mid -1;
         }
-        return ans;
+        return first;
     }
-    public int upperBound(int[] arr,int n, int x){
+    public int last(int[] arr,int n, int x){
         int l = 0; int r = n-1;
-        int ans = n;
+        int last = -1;
         while(l<=r){
             int mid = l + (r - l) / 2;
-            if(arr[mid] > x){
-                ans = mid;
-                r = mid-1;
-            }else l = mid + 1;
+            if(arr[mid] == x){
+                last = mid;
+                l = mid+1;
+            }
+            else if(arr[mid] < x ) l = mid + 1;
+            else r = mid -1;
         }
-        return ans;
+        return last;
     }
     public int[] searchRange(int[] nums, int target) {
         int n=nums.length;
-        int lb = lowerBound(nums, n, target);
-        if( lb == n || nums[lb] != target) return new int[] {-1,-1};
-        return new int[] {lb, upperBound(nums, n, target) - 1};
+        int first = first(nums, n, target);
+        if(first == -1) return new int[] {-1,-1};
+        int last = last(nums, n, target);
+        return new int[] {first, last};
     }
 }
