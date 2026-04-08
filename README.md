@@ -24,6 +24,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/labonibiswas/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/labonibiswas/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/labonibiswas/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/labonibiswas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/labonibiswas/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/labonibiswas/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
