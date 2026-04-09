@@ -4,6 +4,7 @@ class Solution {
         while(l<=r){
             int mid = l + (r-l)/2;
             if(nums[mid] == target) return true;
+            //when mid, left element and right element becomes equal we can't compare whether the target is in sorted or unsorted part hence we continue to shrink both left and right pointers
             if(nums[mid] == nums[l] && nums[mid] == nums[r]){
                 l++;
                 r--;
