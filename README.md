@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/labonibiswas/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/labonibiswas/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -95,6 +96,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/labonibiswas/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/labonibiswas/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Sliding Window
