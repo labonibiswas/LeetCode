@@ -1,17 +1,13 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        if(nums.length == 1) return nums[0];
-        int ans = nums[0];
-        for(int i=0; i<nums.length; i++){
-            if(i == 0){
-                if(nums[i] != nums[i+1]) return nums[i]; // we have nest the if condition else the pointer will not increase
-            } 
-            else if(i == nums.length-1) {
-                if(nums[i] != nums[i-1]) return nums[i]; // we have nest the if condition else the pointer will not increase
-            }
-            else {
-                if(nums[i] != nums[i-1] && nums[i] != nums[i+1]) return nums[i];
-            }
+        int l=0,r=nums.length-1;
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            if(nums[mid] != nums[mid-1] && nums[mid] != nums[mid+1]) return nums[mid];
+            
+            if ((mid%2 == 1 && nums[mid] == nums[mid-1]) || (mid%2 == 0 && nums[mid] == nums[mid+1])){
+                l = mid + 1;
+            }else r = mid - 1;
         }
         return -1;
     }
