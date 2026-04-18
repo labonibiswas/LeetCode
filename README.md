@@ -42,6 +42,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/labonibiswas/LeetCode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/labonibiswas/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/labonibiswas/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
