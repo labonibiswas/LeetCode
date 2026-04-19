@@ -31,6 +31,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/labonibiswas/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/labonibiswas/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/labonibiswas/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/labonibiswas/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Math
@@ -64,6 +65,7 @@
 | [0443-string-compression](https://github.com/labonibiswas/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/labonibiswas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/labonibiswas/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@
 | [0704-binary-search](https://github.com/labonibiswas/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/labonibiswas/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/labonibiswas/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
