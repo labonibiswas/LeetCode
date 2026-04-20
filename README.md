@@ -32,6 +32,7 @@
 | [1732-find-the-highest-altitude](https://github.com/labonibiswas/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/labonibiswas/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/labonibiswas/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/labonibiswas/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
 | [3232-find-if-digit-game-can-be-won](https://github.com/labonibiswas/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 ## Math
@@ -100,6 +101,7 @@
 | [0605-can-place-flowers](https://github.com/labonibiswas/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/labonibiswas/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
