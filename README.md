@@ -95,6 +95,7 @@
 | [1768-merge-strings-alternately](https://github.com/labonibiswas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/labonibiswas/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/labonibiswas/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/labonibiswas/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +163,5 @@
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/labonibiswas/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/labonibiswas/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
