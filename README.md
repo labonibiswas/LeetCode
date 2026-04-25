@@ -76,6 +76,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/labonibiswas/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/labonibiswas/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/labonibiswas/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/labonibiswas/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/labonibiswas/LeetCode/tree/main/3159-find-occurrences-of-an-element-in-an-array/) | Medium |
@@ -91,6 +92,7 @@
 | [0443-string-compression](https://github.com/labonibiswas/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/labonibiswas/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/labonibiswas/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/labonibiswas/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/labonibiswas/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/labonibiswas/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -126,6 +128,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/labonibiswas/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/labonibiswas/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/labonibiswas/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/labonibiswas/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/labonibiswas/LeetCode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/labonibiswas/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
