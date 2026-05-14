@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/labonibiswas/LeetCode/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/labonibiswas/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/labonibiswas/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -158,6 +159,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/labonibiswas/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/labonibiswas/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Heap (Priority Queue)
@@ -174,4 +176,8 @@
 | [0451-sort-characters-by-frequency](https://github.com/labonibiswas/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/labonibiswas/LeetCode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/labonibiswas/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/labonibiswas/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
