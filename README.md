@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/labonibiswas/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/labonibiswas/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/labonibiswas/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/labonibiswas/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/labonibiswas/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/labonibiswas/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/labonibiswas/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/labonibiswas/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/labonibiswas/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
