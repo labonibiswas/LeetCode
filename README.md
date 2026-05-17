@@ -34,6 +34,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/labonibiswas/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/labonibiswas/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/labonibiswas/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/labonibiswas/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/labonibiswas/LeetCode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/labonibiswas/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/labonibiswas/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
