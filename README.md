@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/labonibiswas/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/labonibiswas/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/labonibiswas/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/labonibiswas/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/labonibiswas/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/labonibiswas/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -68,6 +69,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/labonibiswas/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/labonibiswas/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/labonibiswas/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/labonibiswas/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -153,6 +155,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/labonibiswas/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/labonibiswas/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/labonibiswas/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/labonibiswas/LeetCode/tree/main/0268-missing-number/) | Easy |
